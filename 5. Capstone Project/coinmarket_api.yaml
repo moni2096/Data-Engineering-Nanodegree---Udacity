@@ -1,0 +1,9 @@
+DEFAULT:
+  SESSION_HEADERS:
+    'Accepts': 'application/json'
+    'X-CMC_PRO_API_KEY':
+  URL_PARAMETERS:
+    'start': '1'
+    'limit': '5000'
+    'convert': 'USD'
+  'URL': 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest'
