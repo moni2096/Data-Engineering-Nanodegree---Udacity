@@ -1,7 +1,7 @@
 # Introduction
 This repository contains my implementation of projects involved in Data Engineering Nanodegree by Udacity.
 
-<img src="https://github.com/moni2096/Data-Engineering-Nanodegree-Udacity/blob/main/Certificate.png" width="128"/>
+[Certificate](https://github.com/moni2096/Data-Engineering-Nanodegree-Udacity/blob/main/Certificate.png)
 
 # Getting Started
 The program has 5 hands on projects and one capstone project. The 5 capstone projects are:
