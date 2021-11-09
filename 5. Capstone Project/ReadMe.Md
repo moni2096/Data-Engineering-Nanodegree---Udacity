@@ -72,7 +72,7 @@ Run the crypto_price_data_to_s3.py to fetch data from CoinMarketCap API and load
 python python_scripts/crypto_price_data_to_s3.py
 ```
 #### Step 11
-Upload the historical data from local machine to S3. The file crypto_historical_data_to_s3 also contains preprocessing of this files. Out of 400+ CryptoCurrency for the sake of this project we are only using data from 10 popular CryptoCurrency.
+Upload the historical data from local machine to S3. The file crypto_historical_data_to_s3 also contains preprocessing of this files. Out of 400+ CryptoCurrency for the sake of this project we are only using data from 10 popular CryptoCurrency. **Note**: I have not uploaded the data files to this repository. 
 ```
 python python_scripts/crypto_historical_data_to_s3.py
 ```
@@ -93,7 +93,7 @@ After loading all the tables run crypto_data_quality_checks_and_analysis.ipynb u
 #### Step 14
 Finally, don't forget to destroy your cluster to avoid additional charges in the future.
 ```
-python python_scripts/destory_cluster.py
+python python_scripts/destory_aws_components.py
 ```
 #### Project Components
 * **dwh.cfg**- The configuration file to store and fetch credentials of AWS components as well as Twitter API keys.
