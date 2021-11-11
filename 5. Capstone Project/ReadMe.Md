@@ -1,5 +1,5 @@
 
-# Cryptocurrency Trend Analyzer
+# Info CryptoSmart
 > cryptocurrency, sentiment, AWS, redshift, s3, data engineering, data pipelines
 ## Project Description
 Blockchain & Cryptocurrency has been a hot topic of discussion in past few years. Few experts have already claimed that after the invention of the Web, Blockchain and Cryptocurrency will be the next technology to impact the human species in a significant way. Although, there have been a lot of discussion in the media and another source around the impact some people still do not understand how it will impact their lives. This is my small attempt to build a Cryptocurrency price data pipeline to give data access to anyone who wants to consider investing in Cryptocurrency as well as financial/Cryptocurrency experts to analyze current and historical trends in Cryptocurrency statistics.
