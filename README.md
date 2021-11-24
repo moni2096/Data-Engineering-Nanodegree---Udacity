@@ -1,4 +1,5 @@
- ![Language](https://img.shields.io/badge/language-python--3.8-blue) 
+ ![Language](https://img.shields.io/badge/language-python--3.8-blue) ![Your Repository's Stats](https://contrib.rocks/image?repo=moni2096/Data-Engineering-Nanodegree-Udacity)
+ 
 # Introduction
 This repository contains my implementation of projects involved in Data Engineering Nanodegree by Udacity.
 
