@@ -1,5 +1,9 @@
- ![Language](https://img.shields.io/badge/language-python--3.8-blue)
- 
+</p>
+<p align="center">
+    <a href="https://github.com/moni2096/Data-Engineering-Nanodegree-Udacity/graphs/contributors" alt="Contributors">
+    <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
+</p>
+
 # Introduction
 This repository contains my implementation of projects involved in Data Engineering Nanodegree by Udacity.
 
