@@ -120,8 +120,9 @@ I am planning to create few Visualizations by connecting to the Redshift tables 
 ## Sample Visualizations
 * Below are the few sample Visualizations created using the pipeline. The Visualizations were created in [Microsoft Power BI](https://powerbi.microsoft.com/en-us/).
 
-> ![image_description](https://github.com/moni2096/Data-Engineering-Nanodegree-Udacity/blob/main/5.%20Capstone%20Project/Price%20Display.png)
-> ![image_description](https://github.com/moni2096/Data-Engineering-Nanodegree-Udacity/blob/main/5.%20Capstone%20Project/Sentiment%20Analysis.png)
+![image_description](https://github.com/moni2096/Data-Engineering-Nanodegree-Udacity/blob/main/5.%20Capstone%20Project/Price%20Display.png)
+
+![image_description](https://github.com/moni2096/Data-Engineering-Nanodegree-Udacity/blob/main/5.%20Capstone%20Project/Sentiment%20Analysis.png)
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
